@@ -1,0 +1,27 @@
+{
+  "name": "edwin-games-module",
+  "version": "1.0.1",
+  "description": "ini project buat menghibur kita",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "edwin": "nodemon server.js"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "js",
+    "basic",
+    "node",
+    "js",
+    "edwin",
+    "module"
+  ],
+  "author": "edwin https://instagram.com/edwin.kurniawan.522066",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "rupiah-format": "^1.0.0"
+  }
+}
